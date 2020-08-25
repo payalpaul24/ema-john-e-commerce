@@ -1,0 +1,26 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    text-align: left;
+    padding: 5px;
+}
+.product h4{
+    color: lightseagreen;
+    margin-left: 10px;
+    font-weight: 400;
+}
+.product h3,h5,h6{
+    margin-left: 10px;
+    font-weight: bold;
+}
+.main-button{
+    width: 200px;
+    height: 26px;
+    background-color: #F0C14B;
+    border-color: #a88734;
+    border-width: 1px;
+    border-radius: 5px;
+    cursor: pointer;
+}
